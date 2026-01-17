@@ -20,3 +20,10 @@ Output
 
 This repository demonstrates Git and GitHub basics.
 
+This line fixes a typo.
+
+
+
+
+
+
